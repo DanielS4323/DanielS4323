@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate frontend developer from Serbia.</h3>
 
-- 🌱 I’m currently learning **Javascript** **React** 
+- 🌱 I’m currently learning **Javascript** And **React** 
 
 - 💬 Ask me about **React Javascript**
 
